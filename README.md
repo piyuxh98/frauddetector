@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or feature requests:
 - Open an issue on GitHub
 - Email: support@frauddetector.com
-- Documentation: [Wiki](https://github.com/yourusername/frauddetector/wiki)
+- Documentation: [Wiki](https://github.com/yourusernamepiyuxh.98/frauddetector/wiki)
 
 ---
 
