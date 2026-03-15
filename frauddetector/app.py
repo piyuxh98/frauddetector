@@ -1,4 +1,5 @@
 import gradio as gr
+from gradio.themes import Soft
 from PIL import Image
 from PIL.ExifTags import TAGS
 import numpy as np
@@ -484,7 +485,7 @@ demo = gr.Interface(
     
     **Perfect for:** Zepto, Blinkit, Swiggy, Amazon, Flipkart
     """,
-    theme=gr.themes.Soft(),
+    theme=Soft(),
     article="""
     ---
     ### 🎯 What This Catches:
